@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/verse_api.props" />
+</Project>
